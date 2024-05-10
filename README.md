@@ -1,6 +1,8 @@
 <h1 align="center">Hello 🐧, I'm Rahul Dadhich</h1>
 <h5 align="center">🖥️ Hi there! I'm a Learner, Programmer, Debugger 🔎, Tester. As a hybrid frontend and backend developer 🔎, 📌 I thrive
-                                                                            -> On the challenge of creating seamless user experiences. On the frontend, I'm learning modern frameworks like React, adept at turning design mockups into
+
+                                                                            
+-> On the challenge of creating seamless user experiences. On the frontend, I'm learning modern frameworks like React, adept at turning design mockups into
 
 -> Responsive and intuitive interfaces that delight users. Meanwhile, on the backend,📌 I wants to excel in building scalable APIs and services using
 
