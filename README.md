@@ -1,6 +1,21 @@
 <h1 align="center">Hello 🐧, I'm Rahul Dadhich</h1>
-<h5 align="center">🖥️ Hi there! I'm a versatile software professional with a passion for crafting efficient solutions. As a hybrid frontend and backend developer, 📌 I thrive on the challenge of creating seamless user experiences. On the frontend, I'm learning modern frameworks like React, adept at turning design mockups into responsive and intuitive interfaces that delight users. Meanwhile, on the backend,📌 I wants to excel in building scalable APIs and services using languages like Python, Node.js, or Java, backed by databases such as MySQL, PostgreSQL, or MongoDB.📌 I'm also in DevOps practices, trying to setting up and maintaining CI/CD pipelines using tools like GitLab CI, or GitHub Actions.📌 I also have a understanding of Linux systems, enabling me to efficiently manage servers and deploy applications in cloud environments like AWS, Azure, or Google Cloud Platform. 
-My foundation in data structures and algorithms allows me to optimize code for performance and scalability, whether it's implementing efficient sorting algorithms or designing data models for complex applications.📌 I'm constantly honing my problem-solving skills through continuous learning and practice, always seeking elegant solutions to challenging problems. In summary, I'm ready to tackle any technical challenge and drive innovation in software development.</h5>
+<h5 align="center">🖥️ Hi there! I'm a versatile software professional with a passion for crafting efficient solutions. As a hybrid frontend and backend developer, 📌 I thrive on
+  
+the challenge of creating seamless user experiences. On the frontend, I'm learning modern frameworks like React, adept at turning design mockups into
+
+responsive and intuitive interfaces that delight users. Meanwhile, on the backend,📌 I wants to excel in building scalable APIs and services using
+
+languages like Python, Node.js, or Java, backed by databases such as MySQL, PostgreSQL, or MongoDB.📌 I'm also in DevOps practices, trying 
+
+to setting up and maintaining CI/CD pipelines using tools like GitLab CI, or GitHub Actions.📌 I also have a understanding of Linux systems, enabling me 
+
+to efficiently manage servers and deploy applications in cloud environments like AWS, Azure, or Google Cloud Platform. My foundation in data
+
+structures and algorithms allows me to optimize code for performance and scalability, whether it's implementing efficient sorting algorithms or 
+
+designing data models for complex applications.📌 I'm constantly honing my problem-solving skills through continuous learning and practice, 
+
+always seeking elegant solutions to challenging problems. In summary, I'm ready to tackle any technical challenge and drive innovation in software development.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldadhich26&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldadhich26" /> </p>
 
