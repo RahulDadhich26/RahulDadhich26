@@ -1,149 +1,127 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Rahul</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
+<p align='center'>
+   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
-<p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
-</p>
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Rahul Dadhich | 💻 Mern Stack Developer | Web3 Learner | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Robotics Software Engineer (UAV Swarms)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
-
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+   <a href="https://x.com/Rahul_Eth3reum"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
+ </p>
+ 
+ <h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+  </h5>
+ 
+ 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 20 years old Full-Stack developer from India.</h3>
 </p>
+
+ - 🥀 Learning React & Rust
+ 
+ - <i>with Javascript, Typescript, Next and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy of Movies and Space, i love shooting stars too.
+ 
+ - I do fullstack and a bit of everything :heart:
+ 
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ 
+ <p align="center">
+  <h4> Full Stack | Competitive Programming </h4>
+   </p>
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
+
+### - Languages and Tools...
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4430](https://github.com/LayerZero-Labs/sybil-report/issues/4430#issuecomment-2118810886) in [LayerZero-Labs/sybil-report](https://github.com/LayerZero-Labs/sybil-report)
-2. ❗ Opened issue [#2](https://github.com/guilyx/blockchain_learning/issues/2) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-3. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2061876303) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-4. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-5. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%2041%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 335.0 kB Used in GitHub's Storage 
- > 
-> 🏆 838 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 66 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                445 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-🌆 Daytime                2894 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                3423 commits        ███████████░░░░░░░░░░░░░░   43.58 % 
-🌙 Night                  1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-```
+<!--
+### - Blogs 🌱
+-->
+<!--
+<p align="center">
+  <a href="https://dev.to/hemant">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+  </a>
+</p>
+-->
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-C++                      40 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
-XML                      38 mins             █████████░░░░░░░░░░░░░░░░   34.39 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-C                        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-
-🐱‍💻 Projects: 
-swarm_mission            1 hr 37 mins        ██████████████████████░░░   86.89 % 
-web3                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-swarm_triangulation      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-fdvisameme.xyz           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-swarm_ros2_interfaces    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-```
+ ### - What i do
 
 
- Last Updated on 24/09/2024 12:44:37 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 23 September 2024
-
-Total Time: 1,791 hrs 56 mins
-
-C++                657 hrs 33 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.70 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.48 %
-Python             245 hrs 54 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.72 %
-C                  139 hrs 17 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.77 %
-Bash               85 hrs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.74 %
-YAML               80 hrs 17 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-Liked it ?
-
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
-
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+<br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
