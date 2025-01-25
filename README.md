@@ -1,5 +1,6 @@
-class Bio {
-  constructor() {
+
+    class Bio {
+    constructor() {
     this.aboutMe = {
       name: "Rahul Dadhich",
       description: "Technical Content Writer at GeeksforGeeks | Web2 & Web3 Developer",
@@ -9,7 +10,7 @@ class Bio {
         2025: ["Create many Web2 & Web3 projects", "Explore advanced blockchain concepts"]
       }
     };
-
+    
     this.workExperience = [
       {
         role: "Technical Content Writer",
@@ -83,9 +84,7 @@ class Bio {
       github: "https://github.com/rahuldadhich",
       portfolio: "https://rahuldadhich.netlify.app/"
     };
-  }
-
-  display() {
+    display() {
     console.log("=== About Me ===");
     console.log(`Name: ${this.aboutMe.name}`);
     console.log(`Description: ${this.aboutMe.description}`);
@@ -93,7 +92,7 @@ class Bio {
     console.log("Goals 2024:", this.aboutMe.goals[2024].join(", "));
     console.log("Goals 2025:", this.aboutMe.goals[2025].join(", "));
     console.log("\n");
-
+    }
     console.log("=== Work Experience ===");
     this.workExperience.forEach((job, i) => {
       console.log(`${i + 1}. ${job.role} at ${job.company} (${job.duration})`);
@@ -131,8 +130,8 @@ class Bio {
     for (const [platform, link] of Object.entries(this.socialLinks)) {
       console.log(`${platform}: ${link}`);
     }
-  }
-}
+    }
+    }
 
-const bio = new Bio();
-bio.display();
+    const bio = new Bio();
+    bio.display();
