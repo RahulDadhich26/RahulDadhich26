@@ -2,19 +2,12 @@ class Bio {
   constructor() {
     this.aboutMe = {
       name: "Rahul Dadhich",
-      description: "Technical Content Writer at GeeksforGeeks | Web2 and Web3 Developer",
-      status: "Living my best life, learning Rust, Solidity, and solving DSA problems.",
-      goalsFor2024: [
-        "Master Rust and Solidity.",
-        "Build advanced Web2 and Web3 projects.",
-        "Solve 300+ DSA problems.",
-        "Contribute to open-source projects."
-      ],
-      goalsFor2025: [
-        "Create a lot of projects in Web2 and Web3.",
-        "Explore advanced blockchain concepts.",
-        "Publish technical articles and tutorials."
-      ]
+      description: "Technical Content Writer at GeeksforGeeks | Web2 & Web3 Developer",
+      status: "Learning Rust, Solidity, and solving DSA problems.",
+      goals: {
+        2024: ["Master Rust & Solidity", "Build advanced Web2 & Web3 projects", "Solve 300+ DSA problems"],
+        2025: ["Create many Web2 & Web3 projects", "Explore advanced blockchain concepts"]
+      }
     };
 
     this.workExperience = [
@@ -23,9 +16,8 @@ class Bio {
         company: "GeeksforGeeks",
         duration: "Current",
         responsibilities: [
-          "Writing high-quality technical articles on programming and development.",
-          "Creating tutorials and guides for developers.",
-          "Researching and staying updated with the latest tech trends."
+          "Write technical articles and tutorials.",
+          "Research and stay updated with tech trends."
         ]
       },
       {
@@ -33,94 +25,54 @@ class Bio {
         company: "Self-employed",
         duration: "Ongoing",
         responsibilities: [
-          "Building medium to hard-level Web2 projects.",
-          "Working with technologies like React, Node.js, and WebSockets.",
-          "Creating scalable and user-friendly applications."
+          "Build medium to hard-level Web2 projects.",
+          "Work with React, Node.js, and WebSockets."
         ]
       },
       {
-        role: "Web3 Learner and Developer",
+        role: "Web3 Developer",
         company: "Self-taught",
         duration: "Ongoing",
         responsibilities: [
-          "Learning and building medium to hard-level Web3 projects.",
-          "Exploring blockchain, smart contracts, and decentralized apps (dApps).",
-          "Working with Solidity, Ethereum, and Rust."
+          "Build medium to hard-level Web3 projects.",
+          "Learn and work with Solidity, Ethereum, and Rust."
         ]
       }
     ];
 
     this.skills = {
-      programmingLanguages: ["JavaScript", "Rust", "Solidity", "C++"],
+      languages: ["JavaScript", "Rust", "Solidity", "C++"],
       frameworks: ["React", "Node.js", "Express"],
-      tools: ["Git", "VS Code", "Truffle", "Hardhat"],
-      platforms: ["GeeksforGeeks", "LeetCode", "HackerRank"],
-      interests: ["Web Development", "Blockchain", "Technical Writing", "Problem Solving"]
+      tools: ["Git", "VS Code", "Truffle", "Hardhat"]
     };
 
     this.projects = {
       web2: [
         {
           name: "3D Metaverse Game",
-          description: "A real-time multiplayer 3D game built using WebSockets and React.",
-          technologies: ["React", "WebSockets", "Three.js", "Node.js"],
-          features: [
-            "Real-time multiplayer interaction.",
-            "3D environment rendering using Three.js.",
-            "Scalable backend using Node.js and WebSockets."
-          ]
+          description: "Real-time multiplayer 3D game using WebSockets and React.",
+          tech: ["React", "WebSockets", "Three.js", "Node.js"]
         }
       ],
       web3: [
         {
-          name: "Decentralized Exchange (WazirX Clone)",
-          description: "A decentralized exchange inspired by WazirX, built using Web3 technologies.",
-          technologies: ["Solidity", "React", "Web3.js", "Ethereum"],
-          features: [
-            "Token trading and swapping.",
-            "Integration with Ethereum blockchain.",
-            "User-friendly interface for trading."
-          ]
+          name: "Decentralized Exchange",
+          description: "WazirX clone for token trading.",
+          tech: ["Solidity", "React", "Web3.js", "Ethereum"]
         },
         {
           name: "Token Launchpad",
-          description: "A platform for launching new tokens and conducting ICOs.",
-          technologies: ["Solidity", "React", "Web3.js", "IPFS"],
-          features: [
-            "Token creation and deployment.",
-            "Secure ICO participation.",
-            "Integration with IPFS for decentralized storage."
-          ]
-        },
-        {
-          name: "Wallet Adapter",
-          description: "A wallet adapter for connecting multiple blockchain wallets.",
-          technologies: ["Web3.js", "Ethereum", "Solana", "WalletConnect"],
-          features: [
-            "Support for multiple wallets (MetaMask, Phantom, etc.).",
-            "Easy integration with dApps.",
-            "Secure transaction signing."
-          ]
+          description: "Platform for launching new tokens.",
+          tech: ["Solidity", "React", "Web3.js", "IPFS"]
         }
       ],
       cpp: [
         {
           name: "Custom Web Server",
-          description: "A lightweight web server built from scratch using C++.",
-          technologies: ["C++", "Sockets", "HTTP"],
-          features: [
-            "Handles HTTP GET and POST requests.",
-            "Multi-threaded for handling multiple clients.",
-            "Custom routing and request handling."
-          ]
+          description: "Lightweight web server using C++.",
+          tech: ["C++", "Sockets", "HTTP"]
         }
       ]
-    };
-
-    this.randomStuff = {
-      funFact: "I can solve a Rubik's Cube in under 2 minutes!",
-      advice: "Keep learning, keep growing, and never stop coding.",
-      quote: "The best way to predict the future is to create it."
     };
 
     this.socialLinks = {
@@ -138,75 +90,49 @@ class Bio {
     console.log(`Name: ${this.aboutMe.name}`);
     console.log(`Description: ${this.aboutMe.description}`);
     console.log(`Status: ${this.aboutMe.status}`);
-    console.log(`Goals for 2024: ${this.aboutMe.goalsFor2024.join(", ")}`);
-    console.log(`Goals for 2025: ${this.aboutMe.goalsFor2025.join(", ")}`);
+    console.log("Goals 2024:", this.aboutMe.goals[2024].join(", "));
+    console.log("Goals 2025:", this.aboutMe.goals[2025].join(", "));
     console.log("\n");
 
     console.log("=== Work Experience ===");
-    this.workExperience.forEach((job, index) => {
-      console.log(`Job ${index + 1}:`);
-      console.log(`Role: ${job.role}`);
-      console.log(`Company: ${job.company}`);
-      console.log(`Duration: ${job.duration}`);
-      console.log(`Responsibilities:`);
-      job.responsibilities.forEach((resp, i) => console.log(`  ${i + 1}. ${resp}`));
-      console.log("\n");
+    this.workExperience.forEach((job, i) => {
+      console.log(`${i + 1}. ${job.role} at ${job.company} (${job.duration})`);
+      job.responsibilities.forEach((resp, j) => console.log(`   ${j + 1}. ${resp}`));
     });
+    console.log("\n");
 
     console.log("=== Skills ===");
-    console.log(`Programming Languages: ${this.skills.programmingLanguages.join(", ")}`);
-    console.log(`Frameworks: ${this.skills.frameworks.join(", ")}`);
-    console.log(`Tools: ${this.skills.tools.join(", ")}`);
-    console.log(`Platforms: ${this.skills.platforms.join(", ")}`);
-    console.log(`Interests: ${this.skills.interests.join(", ")}`);
+    console.log("Languages:", this.skills.languages.join(", "));
+    console.log("Frameworks:", this.skills.frameworks.join(", "));
+    console.log("Tools:", this.skills.tools.join(", "));
     console.log("\n");
 
     console.log("=== Projects ===");
-    console.log("Web2 Projects:");
-    this.projects.web2.forEach((project, index) => {
-      console.log(`Project ${index + 1}:`);
-      console.log(`Name: ${project.name}`);
-      console.log(`Description: ${project.description}`);
-      console.log(`Technologies: ${project.technologies.join(", ")}`);
-      console.log(`Features:`);
-      project.features.forEach((feature, i) => console.log(`  ${i + 1}. ${feature}`));
-      console.log("\n");
+    console.log("Web2:");
+    this.projects.web2.forEach((proj, i) => {
+      console.log(`${i + 1}. ${proj.name}: ${proj.description}`);
+      console.log("   Tech:", proj.tech.join(", "));
     });
 
-    console.log("Web3 Projects:");
-    this.projects.web3.forEach((project, index) => {
-      console.log(`Project ${index + 1}:`);
-      console.log(`Name: ${project.name}`);
-      console.log(`Description: ${project.description}`);
-      console.log(`Technologies: ${project.technologies.join(", ")}`);
-      console.log(`Features:`);
-      project.features.forEach((feature, i) => console.log(`  ${i + 1}. ${feature}`));
-      console.log("\n");
+    console.log("Web3:");
+    this.projects.web3.forEach((proj, i) => {
+      console.log(`${i + 1}. ${proj.name}: ${proj.description}`);
+      console.log("   Tech:", proj.tech.join(", "));
     });
 
-    console.log("C++ Projects:");
-    this.projects.cpp.forEach((project, index) => {
-      console.log(`Project ${index + 1}:`);
-      console.log(`Name: ${project.name}`);
-      console.log(`Description: ${project.description}`);
-      console.log(`Technologies: ${project.technologies.join(", ")}`);
-      console.log(`Features:`);
-      project.features.forEach((feature, i) => console.log(`  ${i + 1}. ${feature}`));
-      console.log("\n");
+    console.log("C++:");
+    this.projects.cpp.forEach((proj, i) => {
+      console.log(`${i + 1}. ${proj.name}: ${proj.description}`);
+      console.log("   Tech:", proj.tech.join(", "));
     });
-
-    console.log("=== Random Stuff ===");
-    console.log(`Fun Fact: ${this.randomStuff.funFact}`);
-    console.log(`Advice: ${this.randomStuff.advice}`);
-    console.log(`Quote: ${this.randomStuff.quote}`);
     console.log("\n");
 
     console.log("=== Social Links ===");
     for (const [platform, link] of Object.entries(this.socialLinks)) {
-      console.log(`${platform.charAt(0).toUpperCase() + platform.slice(1)}: ${link}`);
+      console.log(`${platform}: ${link}`);
     }
   }
 }
 
 const bio = new Bio();
-bio.display(); 
+bio.display();
