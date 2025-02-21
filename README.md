@@ -95,15 +95,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshavenger&show_icons=true&theme=radical" alt="Vansh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulDadhich26&show_icons=true&theme=radical" alt="Vansh's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul_Dadhich26&theme=radical" alt="Vansh's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulDadhich26&theme=radical" alt="Vansh's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul_Dadhich26&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDadhich26&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 <h2 align="center">🌟 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul_Dadhich26&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulDadhich26&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
 ---
@@ -119,7 +119,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul_Dadhich26r&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulDadhich26r&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
