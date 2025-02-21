@@ -1,15 +1,15 @@
 
 
-    ██████╗    █████╗   ██╗  ██╗  ██╗   ██╗  ██╗      
-    ██╔══██╗  ██╔══██╗  ██║  ██║  ██║   ██║  ██║     
-    ██████╔╝  ███████║  ███████║  ██║   ██║  ██║    
-    ██╔══██╗  ██╔══██║  ██╔══██║  ██║   ██║  ██║     
-    ██║  ██║  ██║  ██║  ██║  ██║  ╚██████╔╝  ███████╗  
-    ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝ 
+                                            ██████╗    █████╗   ██╗  ██╗  ██╗   ██╗  ██╗      
+                                            ██╔══██╗  ██╔══██╗  ██║  ██║  ██║   ██║  ██║     
+                                            ██████╔╝  ███████║  ███████║  ██║   ██║  ██║    
+                                            ██╔══██╗  ██╔══██║  ██╔══██║  ██║   ██║  ██║     
+                                            ██║  ██║  ██║  ██║  ██║  ██║  ╚██████╔╝  ███████╗  
+                                            ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝ 
     
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to VC Github
+  Welcome to RD Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,16 +22,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vanshchopra1">
+  <a href="https://www.linkedin.com/in/rahuldadhich26/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Vansh_Avenger">
+  <a href="https://x.com/Rahul_Dadhich26">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="http://www.instagram.com/vansh_chopra24">
+<!--   <a href="http://www.instagram.com/vansh_chopra24">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:vanshchopra101@gmail.com">
+  </a> -->
+  <a href="mailto:rahuldadhich80263@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -99,11 +99,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshavenger&theme=radical" alt="Vansh's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul_Dadhich26&theme=radical" alt="Vansh's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshavenger&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul_Dadhich26&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 <h2 align="center">🌟 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshavenger&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul_Dadhich26&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
 ---
@@ -119,7 +119,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshavenger&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahul_Dadhich26r&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
