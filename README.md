@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuldadhich26&layout=compact&theme=holi&range=all_time"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RahulDadhich26&layout=compact&theme=holi&range=all_time"/>
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
 </p>
 
