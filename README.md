@@ -6,7 +6,11 @@
                                             ██╔══██╗  ██╔══██║  ██╔══██║  ██║   ██║  ██║     
                                             ██║  ██║  ██║  ██║  ██║  ██║  ╚██████╔╝  ███████╗  
                                             ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝ 
-    
+
+ ### Achivements
+
+  ![image](https://github.com/user-attachments/assets/6b26a666-85ea-4ec4-84d5-1e92be3e4162)
+ 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome to Rahul Dadhich Github
