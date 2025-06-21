@@ -6,8 +6,7 @@
                                           ██╔══██╗  ██╔══██║  ██╔══██║  ██║   ██║  ██║     
                                           ██║  ██║  ██║  ██║  ██║  ██║  ╚██████╔╝  ███████╗  
                                           ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝ 
-                                          
-  ![tenor](https://github.com/user-attachments/assets/dab2bb3d-a1d5-4017-b7da-027028f322b1)
+
 <p align="center"><img alt="Light" src="https://github.com/hanubhai2001/hanubhai2001/blob/main/tenor.gif" width="27%"></p>
  
 <h1 align="center">
