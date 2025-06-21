@@ -6,8 +6,9 @@
                                           ██╔══██╗  ██╔══██║  ██╔══██║  ██║   ██║  ██║     
                                           ██║  ██║  ██║  ██║  ██║  ██║  ╚██████╔╝  ███████╗  
                                           ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝   ╚══════╝ 
+                                          
+![tenor](https://github.com/user-attachments/assets/dab2bb3d-a1d5-4017-b7da-027028f322b1)
 
- ### Achivements
  
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
