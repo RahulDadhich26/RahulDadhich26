@@ -110,10 +110,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulDadhich26&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </p>
 
-  
-  https://github-readme-stats.hackclub.dev/api/wakatime?RahulDadhich26=8523&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical
-    
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -135,3 +131,69 @@
 </p>
 
 
+
+### Hi there 👋
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{Chess.com}}]({{https://github.com/RahulDadhich26/Chess.com.git}}) - {{.Repo.Descriptio}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentCreatedRepos "charmbracelet" 10}}
+- [{{ModernChess}}]({{https://github.com/RahulDadhich26/ModernChess.git}}) - {{.Description}}
+{{- end}}
+
+#### 🍴 My recent forks
+{{range recentForkedRepos "charmbracelet" 10}}
+- [{{indexer}}]({{https://github.com/RahulDadhich26/indexer.git}}) - {{.Description}}
+{{- end}}
+
+        #### 🔭 Latest releases I've contributed to
+        {{range recentReleases 10}}
+        - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+        {{- end}}
+
+        #### 🔨 My recent Pull Requests
+        {{range recentPullRequests 10}}
+        - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+        {{- end}}
+
+#### 📜 My recent blog posts
+{{range rss "https://.../posts/index.xml" 5}}
+- [{{Mastering cloud Architecture: 2025 System Design Checklist}}]({{https://medium.com/@rahuldadhich80263/mastering-cloud-architecture-2025-system-design-checklist-62b51c7bdc5f}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+      #### 📓 Gists I wrote
+      {{range gists 5}}
+      - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+      {{- end}}
+      
+      #### ⭐ Recent Stars
+      {{range recentStars 10}}
+      - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+      {{- end}}
+
+      #### ❤️ These awesome people sponsor me (thank you!)
+      {{range sponsors 5}}
+      - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+      {{- end}}
+      
+      #### 👯 Check out some of my recent followers
+      {{range followers 5}}
+      - [{{.Login}}]({{.URL}})
+      {{- end}}
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://x.com/Rahul_Dadhich26
+- Linkedin: https://www.linkedin.com/in/rahuldadhich26,
+- Blog: https://https://medium.com/@rahuldadhich80263
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/charmbracelet/readme-scribe)!
+
+<!-- comments will be preserved -->
