@@ -111,8 +111,8 @@
 </p>
 
   
-https://github-readme-stats.hackclub.dev/api/wakatime?username=8523&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical
----
+  https://github-readme-stats.hackclub.dev/api/wakatime?RahulDadhich26=8523&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical
+    
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
