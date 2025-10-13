@@ -99,7 +99,7 @@
 
 ---
 
-<h2 align="center">🌟 GitHub Contributions</h2>
+<h2 align="center">🌟 GitHub Contributions  </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulDadhich26&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
